@@ -3,7 +3,7 @@ A full (MERN) stack application for creating & listing travel logs
 
 
 # Contents
-
+```
 [✔] Setup Server  
   [✔] Install Dependencies
   [✔] Install/Setup Linter
@@ -20,6 +20,7 @@ A full (MERN) stack application for creating & listing travel logs
 [❕] Create Form to add a new entry
 [❕] Setup Map SDK on client
 [❕] List all lg entries on map
+```
 
 ## Setup Server
 
