@@ -20,11 +20,6 @@ A full (MERN) stack application for creating & listing travel logs
 [❕] Create Form to add a new entry
 [❕] Setup Map SDK on client
 [❕] List all lg entries on map
-<<<<<<< HEAD
-```
-=======
-
->>>>>>> 0d96cb1dd598ced2dc3f44065776b942d15d23ec
 
 ## Setup Server
 
