@@ -50,9 +50,10 @@ A full (MERN) stack application for creating & listing travel logs
     }
     ```
 
-
 7. Setup `eslint` with `airbnb` styleguide.
   
   ![eslint_setup](./img/eslint_setup.PNG)
 
-8. 
+8. Create Middlewares in `middlewares.js` file in `src` folder
+9. Import Middlewares in `index.js` for 404notFound & errorHandler.
+10. 
